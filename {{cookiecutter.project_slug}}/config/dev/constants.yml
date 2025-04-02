@@ -1,0 +1,3 @@
+default_model_name: resilience-anomaly-detector
+pipeline_name: resilience-pipeline-dev
+region: us-west-2

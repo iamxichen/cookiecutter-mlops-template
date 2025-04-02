@@ -1,0 +1,7 @@
+{
+  "project_name": "SageMaker MLOps Template",
+  "project_slug": "sagemaker_mlops_project",
+  "module_name": "resilience_engine",
+  "author_name": "Your Name",
+  "python_version": "3.12"
+}
