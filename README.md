@@ -1,4 +1,4 @@
-# cookiecutter-sagemaker-mlops-template
+# cookiecutter-mlops-template
 
 A Cookiecutter template for building modular, production-ready ML pipelines using **AWS SageMaker**.
 
