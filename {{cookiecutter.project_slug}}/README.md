@@ -10,7 +10,6 @@ It provides a clean, modular starting point for building data pipelines and ML w
 
 ```bash
 bash setup.sh
-poetry install
 ```
 
 Run the project:
