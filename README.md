@@ -14,7 +14,7 @@ This template is designed for individual ML engineers or data scientists who wan
 ## 🔧 How to Use
 
 ```bash
-cookiecutter https://github.com/yourusername/cookiecutter-sagemaker-mlops-template
+cookiecutter https://github.com/yourusername/cookiecutter-mlops-template
 ```
 
 You'll be prompted to enter project-specific values (name, slug, module name, etc.). A fully structured repo will be created.
